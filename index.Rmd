@@ -1,0 +1,37 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+##every website has to have an index page
+
+# This is Lin's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can do everything you might usually do.
+
+That means you can add text.
+
+This website is an example coming from P8105. We're making websites today!
+
+##若想要转到其他website,按照下面的格式复制该网址到括号中--[text](网址).
+This website is an example coming from [P8105](https://p8105.com/making_websites.html). We're making websites today!
+
+I also use [google](http://www.google.com/) a ton for data science.
+
+##若想从这个界面跳转到自己做的另一个界面，则不需要像上面那样复制网址，只需要写下该page的html file.--[text](html file).
+##完成这样的跳转，需要保证所有你做的page都在一个folder中
+
+Learn more about this site [here](about.html).
+
+To show that you can just use RMD like normal, check out [this page](plots.html) with plots.
+
+
+Here's a picture of myself!
+##可以从网上调取图片，也可以从本地调取图片
+
+![](images/glass_beauty.jpg)
+
