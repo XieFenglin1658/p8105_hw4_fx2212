@@ -9,6 +9,3 @@ output:
 
 ![](images/museum_cat.jpeg)
 Learn more about this site [here](about.html).
-
-To show that you can just use RMD like normal, check out [this page](plots.html) with plots.
-
