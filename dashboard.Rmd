@@ -14,8 +14,6 @@ library(plotly)
 library(p8105.datasets)
 ```
 
-# Load and prepare restaurant data
-
 ```{r}
 data("rest_inspec")
 
@@ -23,7 +21,8 @@ restaurant_data =
   rest_inspec |> 
   filter(
     !is.na(score),
-    !is.na(boro)
+    !is.na(boro),
+    boro != "0"
   ) |> 
   sample_n(3000) |> 
   select(
