@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: resume.html
     - text: "Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
@@ -13,7 +15,7 @@ navbar:
       href: http://github.com/XieFenglin1658/
 output:
   html_document:
-    theme: cerulean
+    theme: yeti
     
     
 ##this site.yml file is for setting the parameters for how the website is going to look across all of the pages.在这个file中设定的所有 东西都会被统一运用到其他所有pages

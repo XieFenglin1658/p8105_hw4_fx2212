@@ -1,0 +1,28 @@
+---
+title: "My Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### Education
+
+*  Columbia University - M.S. in Biostatistics
+*  University of Birmingham - BSc (Hons) in Applied Mathematics with Statistics
+*  Jinan University - Bachelor of Economics in Economics and Statistics
+
+### Research Projects
+
+#### Investigation of Guangzhou Residents' Attitudes and Demand for Medical Accompaniment Services
+
+*  Processed and analyzed large datasets using Excel, SPSS, and Python
+*  Applied K-means clustering, logistic regression, TF-IDF, and statistical testing methods
+
+#### Research on Digital Transformation's Impact on Enterprise Trade in Greater Bay Area
+
+*  Scraped enterprise annual reports using Python to measure digitalization levels
+*  Applied Poisson maximum likelihood and multiple fixed-effects panel models
+
+Go back to the [homepage](index.html).
+
